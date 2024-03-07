@@ -72,7 +72,7 @@ export default function Slider2() {
     >
       {images.map((data, index) => (
         <SwiperSlide key={index}>
-          <img className="h-80  rounded-none" src={data.src} alt="" />
+          <img className="h-80 hover:via-black rounded-none" src={data.src} alt="" />
         </SwiperSlide>
       ))}
     </Swiper>

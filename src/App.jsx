@@ -1,3 +1,4 @@
+
 import Navbar from "./Shared/Navbar/Navbar"
 import Cards from "./components/home/Cards"
 import CradsFood from "./components/home/CradsFood"
@@ -22,6 +23,7 @@ function App() {
 
   return (
     <>
+  
     <Navbar></Navbar>
      <Home/>
      <Story></Story>
