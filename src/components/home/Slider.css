@@ -1,0 +1,12 @@
+@keyframes zoomInOut {
+    0% {
+      background-size: 100%;
+    }
+    50% {
+      background-size: 120%;
+    }
+    100% {
+      background-size: 100%;
+    }
+  }
+  
